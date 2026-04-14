@@ -1,7 +1,6 @@
 ## HUNUS
 
-This repo hosts the code for the paper "Lingfeng Wang, Wensheng Gan, Zhidong Lin, Zhenlian Qi, Jian Zhu, Ruichu Cai, and Zhifeng Hao: Targeted Mining of Non-overlapping High-Utility Sequential Patterns Submitted to Information Sciences, pp 1-28 (2026)."
-
+This repo hosts the code for the paper "Lingfeng Wang, Wensheng Gan, Zhidong Lin, Zhenlian Qi, Jian Zhu, Ruichu Cai, and Zhifeng Hao: Targeted Mining of Non-overlapping High-Utility Sequential Patterns. Information Sciences, pp 1-28 (2026)."
 ## Requirements
 
 Java programming language.
